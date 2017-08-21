@@ -1,0 +1,51 @@
+h1{
+  font-family: 'Monoton', cursive;
+}
+body{
+   background-color: green;
+  color:white;
+}
+.quo{
+    background:white;
+    width: 600px;
+    min-height: 300px;
+    height: auto;
+    border-radius: 5px;
+    margin: 2% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 5%;
+}
+.btn-primary{
+  cursor: default;
+  color: green;
+    font-size: 35px;
+    padding-top:10px;
+    background-color: white;
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    border:solid grey;
+    border-width: thin;
+}
+.btn-primary:hover{
+  background-color: green;
+  color: white;
+}
+.btn-turn{
+  background-color: green;
+  width: 150px;
+  height: 40px;
+  margin-left: 40px;
+  padding-top:10px;
+}
+.btn-turn:hover{
+  background-color: white;
+  color: green;
+  border: 1px solid green;
+  cursor: default;
+}
+  .alert-success{
+  font-size: 15px;
+   max-width: 150px;
+   margin-left: 40px;
+}
